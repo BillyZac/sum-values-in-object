@@ -1,5 +1,5 @@
 {
-  "name": "swap-keys-in-object",
+  "name": "swap-values-in-object",
   "version": "1.0.1",
   "description": "Sums values in an object",
   "main": "index.js",
