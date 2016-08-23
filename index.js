@@ -1,5 +1,5 @@
 module.exports = (object, keys) => (
     keys.reduce((sum, key) => (
-        sum + object[key]
+        object[key] ? sum + object[key] : sum
     ), 0)
 )
