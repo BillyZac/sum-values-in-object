@@ -8,6 +8,10 @@
   },
   "author": "Zachary Smith",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BillyZac/sum-values-in-object"
+  },
   "devDependencies": {
     "chai": "^3.5.0"
   }
